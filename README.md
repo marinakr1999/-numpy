@@ -9,6 +9,9 @@
 Правило 8. Игра прекращается, если конфигурация на очередном шаге в точности повторит себя же на одном из более ранних шагов.
 
 LEFT CLICK - you can make a cell "active"/"alive" by left-clicking it
+
 RIGHT CLICK - to "kill" a cell
+
 SPACE - start/stop
+
 r - clear/reset
